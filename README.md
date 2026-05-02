@@ -1,2 +1,2 @@
-# arduino-weather-station
-Hőmérsékletfigyelő állomás
+# Hőmérsékletfigyelő állomás
+Arduino alapú hőmérsékletfigyelő rendszer, TinkerCAD környezetben megvalósítva.
