@@ -73,7 +73,7 @@ A rendszer a mért hőmérsékleti adatokat valós időben dolgozza fel, majd k�
 
 ## TinkerCAD szimuláció
 
-Ide kerül a TinkerCAD projekt linkje.
+[Időjárás állomás LED-es kijelzővel](https://www.tinkercad.com/things/etK4Lkb7zCh-idojaras-allomas-led-es-kijelzovel?sharecode=r5AeXdDxQIYc_wAjrZIVBkJIgDoyPJw8N4ff7F-3e4M)
 
 ## Dokumentáció
 
