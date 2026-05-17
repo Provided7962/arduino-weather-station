@@ -65,11 +65,14 @@ A rendszer a mért hőmérsékleti adatokat valós időben dolgozza fel, majd k�
 - IN → D10
 
 ## Projektstruktúra
+```text
+.
 ├── README.md
 ├── docs/
-│   └── projekt-dokumentacio.pdf
+│   ├── projekt-dokumentacio.pdf
 └── src/
     └── homersekletfigyelo.ino
+```
 
 ## TinkerCAD szimuláció
 
